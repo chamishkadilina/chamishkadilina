@@ -10,13 +10,10 @@ I'm a passionate **Mobile App Developer** who loves turning ideas into real-life
 - 🌟 Specialized in Android and iOS development
 - 🎨 Lover of modern, minimalist, and eye-catching designs
 - 🌐 Always exploring new technologies and industry trends
----
 
-## 💼 Skills
 ---
 
 ## 📈 GitHub Stats
-
 <a href="https://github.com/chamishkadilina">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chamishkadilina&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chamishkadilina&layout=compact&langs_count=8&theme=algolia"/>
