@@ -25,7 +25,7 @@ I'm a passionate **Mobile App Developer** who loves turning ideas into real-life
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,java,kotlin,swift,dart,flutter,react,firebase,figma,illustrator,vscode,androidstudio,github," />
+    <img src="https://skillicons.dev/icons?i=c,python,java,kotlin,swift,dart,flutter,react,firebase,figma,illustrator,vscode,androidstudio,github" />
   </a>
 </p>
 
