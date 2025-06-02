@@ -6,7 +6,7 @@ I'm a passionate **Mobile App Developer** who loves turning ideas into real-life
 
 ## 🚀About Me 
 
-- 📱 Mobile App Developer with 1 years of experience
+- 📱 Mobile App Developer with 2 years of experience
 - 🌟 Specialized in Android and iOS development
 - 🎨 Lover of modern, minimalist, and eye-catching designs
 - 🌐 Always exploring new technologies and industry trends
